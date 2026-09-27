@@ -1,6 +1,20 @@
 # StreamHelper — выпуски для Windows
 
+[Русский](README.md) · [English](README.en.md)
+
 Здесь опубликованы установщики и файлы автообновления StreamHelper. Приложение помогает управлять Twitch-стримом, OBS, чатом, алертами, интерактивом и оверлеями из одного окна.
+
+Если у вас есть доступ к закрытому [репозиторию исходников](https://github.com/Rayness/StreamHelper/releases/latest), выпуск доступен и там. Этот публичный репозиторий нужен для автообновлений без токена.
+
+## Скриншоты
+
+Демонстрационные данные, без реальных аккаунтов и токенов.
+
+![Главная панель StreamHelper](docs/screenshots/dashboard.png)
+
+| Настройка чата | Награды за баллы | Коллаб |
+| --- | --- | --- |
+| ![Чат](docs/screenshots/chat-settings.png) | ![Награды](docs/screenshots/rewards-settings.png) | ![Коллаб](docs/screenshots/collab-settings.png) |
 
 ## Установка
 
